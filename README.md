@@ -19,11 +19,11 @@ Antes de começar, certifique-se de ter instalado em seu ambiente:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/israelGitV1/ReactCalculadora.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd ReactCalculadora
    ```
 3. Instale as dependências com Yarn:
    ```sh
