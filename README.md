@@ -1,7 +1,9 @@
 # Calculadora em React
 
 Este projeto é uma calculadora simples desenvolvida em React, utilizando Yarn como gerenciador de pacotes.
-
+<p>
+<img height="400" src="![Calculadora](https://github.com/israelGitV1/ReactCalculadora/blob/main/src/img/Captura%20de%20tela%202025-01-29%20161036.png)"/>
+</p>
 ## 🚀 Tecnologias Utilizadas
 
 - React
