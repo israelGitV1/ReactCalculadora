@@ -5,7 +5,7 @@ Este projeto é uma calculadora simples desenvolvida em React, utilizando Yarn c
 ## 🚀 Tecnologias Utilizadas
 
 - React
-- Styled Components
+- Styled Component
 - Hooks (useState)
 
 ## 📦 Pré-requisitos
@@ -71,5 +71,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para contribuir!
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Seu Nome](https://github.com/israelGitV1).
 
