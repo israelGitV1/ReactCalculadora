@@ -73,5 +73,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para contribuir!
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/israelGitV1).
+Desenvolvido por [Israel](https://github.com/israelGitV1).
 
